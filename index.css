@@ -22,6 +22,9 @@ body {
 
 .starContainer {
     margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
 }
 
 .starContainer i {
@@ -34,6 +37,9 @@ body {
 
 .heartContainer {
     margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
 }
 
 .heartContainer i {
